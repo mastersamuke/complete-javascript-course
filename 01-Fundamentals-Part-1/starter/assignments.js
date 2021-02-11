@@ -1,3 +1,4 @@
+/*
 // LECTURE: Values and Variables
 let country = 'United States of America';
 let continent = 'North America';
@@ -15,3 +16,4 @@ console.log(isIsland);
 console.log(population);
 console.log(country);
 console.log(language);
+*/
